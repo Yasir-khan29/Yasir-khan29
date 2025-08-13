@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Yasir 👋
 
-<!--
-**Yasir-khan29/Yasir-khan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- B.tech(CSE) | Full stack developer
+- Coder | Project Builder | Tech Enthusiast
+- 🌱 Passionate about collaborating on impactful tech projects and team-based learning
 
-Here are some ideas to get you started:
+## 🛠 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Project 1](link) — Short description
+- [Project 2](link) — Short description
+
+## 🧑‍💻 Tech Stack
+
+HTML | CSS | Bootstrap | JavaScript | React | Git | GitHub | Python (basic) | C programming
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/yasir-khan-08a9682a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](armaankhan92786@email.com)
