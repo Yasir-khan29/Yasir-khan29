@@ -7,7 +7,7 @@
 ## 🛠 Projects
 
 - [To-do list](https://yasir-khan29.github.io/To-do-list/) — A simple and interactive to-do list app to add, edit, and delete tasks. Helps you stay organized and track your daily activities.
-- [Project 2](link) — Short description
+- [E-Commerce](https://yasir-khan29.github.io/E-commerce/) — A simple and responsive e-commerce website built with HTML and CSS. Showcases products with a clean layout and user-friendly design.
 
 ## 🧑‍💻 Tech Stack
 
