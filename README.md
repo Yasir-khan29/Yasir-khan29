@@ -7,7 +7,8 @@
 ## 🛠 Projects
 
 - [To-do list](https://yasir-khan29.github.io/To-do-list/) — A simple and interactive to-do list app to add, edit, and delete tasks. Helps you stay organized and track your daily activities.
-- [E-Commerce](https://yasir-khan29.github.io/E-commerce/) — A simple and responsive e-commerce website built with HTML and CSS. Showcases products with a clean layout and user-friendly design.
+- [E-Commerce](https://yasir-khan29.github.io/E-commerce/) — A simple and responsive e-commerce website built with **HTML** and **CSS**. Showcases products with a clean layout and user-friendly design.
+- [Analog Clock](https://yasir-khan29.github.io/Analog-clock/) — A simple and elegant analog clock built using **HTML**, **CSS**, and **JavaScript**. This project visually represents a working clock with real-time movement of hour, minute, and second hands. It includes a toggle for light/dark mode and uses smooth transitions for a modern, responsive design.
 
 ## 🧑‍💻 Tech Stack
 
